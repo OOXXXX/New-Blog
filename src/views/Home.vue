@@ -1,33 +1,25 @@
 <template>
   <div class="container">
-    <img id="avatar" alt="avatar" src="./../assets/icon.jpg" />
-    <h1>Spencer Woo</h1>
+    <img id="avatar" alt="avatar" src="./../assets/Patrick.jpeg" />
+    <h1>XXXXXXX</h1>
     <h2>👨‍🎨 👨‍💻 🙋‍♂️</h2>
 
-    <p>CS 在读 / 少数派资深作者 / Arch Linux 精神用户 / 人民艺术家</p>
+    <p>A Level在读 / ‘Apple Device’精神用户 / 情怀文学家</p>
     <p>
-      * he is also the creator of
-      <a href="https://dowww.spencerwoo.com/">'Dev on Windows with WSL'</a>
+      * he is also a Developer of Apple
+      <a href="https://developer.apple.com">'Develop Program'</a>
     </p>
 
     <hr id="top-hr" />
     <h3>🎉 Where to find me:</h3>
     <div id="card-container">
       <Card
-        msg="少数派 sspai"
-        backgroundColor="#ca2c2a"
-        description="✏️ 主要输出战场！"
-        textColor="#FFFFFF"
-        icon="sspai.png"
-        link="https://sspai.com/u/spencerwoo/posts"
-      />
-      <Card
         msg="博客 Blog"
-        backgroundColor="#0083c0"
-        description="📒 从头开始（咕咕咕）"
+        backgroundColor="#d62438"
+        description="📒 从头开始"
         textColor="#FFFFFF"
-        icon="netlify.png"
-        link="https://blog.spencerwoo.com"
+        icon="Blog.png"
+        link="https://patrickzhu.club"
       />
       <Card
         msg="GitHub"
@@ -35,7 +27,15 @@
         description="📦 我做过的项目都在这里"
         textColor="#FFFFFF"
         icon="github.png"
-        link="https://github.com/spencerwooo"
+        link="https://github.com/OOXXXX"
+      />
+      <Card
+        msg="知乎 Zhihu"
+        backgroundColor="#2b8bde"
+        description="📱 打发闲暇"
+        textColor="#FFFFFF"
+        icon="zhihu.png"
+        link="https://www.zhihu.com/people/stay-alive-31/activities"
       />
     </div>
 
@@ -66,12 +66,9 @@
         </div>
       </div>
 
-      <p>🧨 感谢大哥的关注！给您拜年了！干杯 🍻</p>
+      
 
-      <hr />
-
-      <h3>Want to use this template on your website?</h3>
-      <p>想要用我的模板搭建自己的 Portfolio？请记得不要删掉下面的 Badge，谢谢。</p>
+      
       <a href="https://github.com/spencerwooo/portfolio">
         <img src="https://flat.badgen.net/badge/Designed%20by/@SpencerWoo/red" alt="copyright" />
       </a>

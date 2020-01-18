@@ -1,24 +1,7 @@
 # 💎 Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b78fe007-3630-48ab-9476-d4abf49459f6/deploy-status)](https://app.netlify.com/sites/spencer/deploys)
+[![Netlify Status]([![Netlify Status](https://api.netlify.com/api/v1/badges/b8430d5d-6cfb-45da-a007-e5c1f132aa05/deploy-status)](https://app.netlify.com/sites/reverent-johnson-23d4dd/deploys))
 
-## Copyright
-
-Please use the badge below if you were to deploy this site by yourself:
-
-如果你使用了我的模板自己部署，请记得加上下面的 Badge，感谢：
-
-[![](https://flat.badgen.net/badge/Designed%20by/@SpencerWoo/red)](https://github.com/spencerwooo/portfolio)
-
-```html
-<a href="https://github.com/spencerwooo/portfolio">
-  <img src="https://flat.badgen.net/badge/Designed%20by/@SpencerWoo/red" alt="copyright" />
-</a>
-```
-
-```markdown
-[![](https://flat.badgen.net/badge/Designed%20by/@SpencerWoo/red)](https://github.com/spencerwooo/portfolio)
-```
 
 ## Project setup
 

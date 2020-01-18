@@ -19,9 +19,6 @@
           <router-link to="/">HOME</router-link>
         </div>
         <div class="link">
-          <router-link to="/about">关于</router-link>
-        </div>
-        <div class="link">
           <router-link to="/subscribe">SUBSCRIBE</router-link>
         </div>
       </template>
@@ -34,22 +31,22 @@
     <div id="footer">
       <div id="footer-text">
         <p>
-          Built with ♥ and
+          Built with
           <a href="https://vuejs.org/">Vue.js</a> | CSS animations by
           <a href="http://animista.net/">Animista</a> | Proudly deployed on
           <a href="https://netlify.com/">Netlify</a>
         </p>
         <p>
-          Designed, coded, and deployed from scratch by Spencer Woo. Open source on
+          Designed, from scratch by Spencer Woo. Open source on
           <a
-            href="https://github.com/spencerwooo/portfolio"
+            href="https://github.com/OOXXXX/New-Blog"
           >GitHub</a>.
         </p>
         <p id="busuanzi_container_site_pv">
           Viewed by you guys for a total of
-          <span id="busuanzi_value_site_pv"></span> times ♥
+          <span id="busuanzi_value_site_pv"></span> times 🕑
         </p>
-        <p id="footer-copyright">©{{ getYear() }} Spencer Woo</p>
+        <p id="footer-copyright">©{{ getYear() }} Patrick Zhu</p>
       </div>
     </div>
   </div>
@@ -71,7 +68,7 @@ export default {
           {
             type: 'button',
             text: '🌟 ME ON GITHUB',
-            path: 'https://github.com/spencerwooo/portfolio',
+            path: 'https://github.com/OOXXXX/New-Blog',
             class: 'button-github'
           }
         ]
@@ -146,7 +143,7 @@ body {
 
 #main-navbar .button-github {
   background: white;
-  color: #24292e;
+  color: dd0938;
   border: 1px solid #0f4c81;
   /* border-radius: 50px; */
   transition: 0.3s;
