@@ -1,6 +1,6 @@
 # 💎 Portfolio
 
-[![Netlify Status]([![Netlify Status](https://api.netlify.com/api/v1/badges/b8430d5d-6cfb-45da-a007-e5c1f132aa05/deploy-status)](https://app.netlify.com/sites/reverent-johnson-23d4dd/deploys))
+[![Netlify Status](https://api.netlify.com/api/v1/badges/59423563-f0d7-4ed1-83a0-055d0be5a070/deploy-status)](https://app.netlify.com/sites/relaxed-montalcini-7ca327/deploys)
 
 
 ## Project setup

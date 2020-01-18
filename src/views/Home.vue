@@ -1,13 +1,13 @@
 <template>
   <div class="container">
     <img id="avatar" alt="avatar" src="./../assets/Patrick.jpeg" />
-    <h1>XXXXXXX</h1>
-    <h2>👨‍🎨 👨‍💻 🙋‍♂️</h2>
+    <h1>XXXX</h1>
+    <h2>🙆‍♂️ 👨‍💻 🙋‍♂️</h2>
 
     <p>A Level在读 / ‘Apple Device’精神用户 / 情怀文学家</p>
     <p>
       * he is also a Developer of Apple
-      <a href="https://developer.apple.com">'Develop Program'</a>
+      <a href="https://developer.apple.com"> 'Develop Program' </a>
     </p>
 
     <hr id="top-hr" />
@@ -19,7 +19,7 @@
         description="📒 从头开始"
         textColor="#FFFFFF"
         icon="Blog.png"
-        link="https://patrickzhu.club"
+        link="https://www.patrickzhu.club"
       />
       <Card
         msg="GitHub"
@@ -44,24 +44,17 @@
       <h3>你还可以在这些地方偶尔发现一只我：</h3>
       <div class="social-media">
         <div class="social-media-card">
-          <img class="media-icon" src="@/assets/weibo.png" alt="weibo" />
+          <img class="media-icon" src="@/assets/CN_bilibiliB.png" alt="bilibili" />
           <span>
-            Weibo:
-            <a href="https://weibo.com/spencerwoo">@SpencerWoo</a>
+            BiliBili:
+            <a href="https://space.bilibili.com/284808882">@Zhupx</a>
           </span>
         </div>
         <div class="social-media-card">
           <img class="media-icon" src="@/assets/twitter.png" alt="twitter" />
           <span>
             Twitter:
-            <a href="https://twitter.com/realSpencerWoo">@realSpencerWoo</a>
-          </span>
-        </div>
-        <div class="social-media-card">
-          <img class="media-icon" src="@/assets/telegram.png" alt="telegram" />
-          <span>
-            Telegram Channel:
-            <a href="https://t.me/realSpencerWoo">@realSpencerWoo</a> | <a href="https://tg.spencerwoo.com">Post archives</a>
+            <a href="https://twitter.com/Patrick97786517">@Patrick97786517</a>
           </span>
         </div>
       </div>

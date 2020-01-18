@@ -9,8 +9,8 @@
       :particleSize="4"
       :lineLinked="false"
       :moveSpeed="3"
-      :hoverEffect="false"
-      :clickEffect="false"
+      :hoverEffect="true"
+      :clickEffect="true"
     />
 
     <vue-navigation-bar :options="navbarOptions">
@@ -18,9 +18,7 @@
         <div class="link">
           <router-link to="/">HOME</router-link>
         </div>
-        <div class="link">
-          <router-link to="/subscribe">SUBSCRIBE</router-link>
-        </div>
+        
       </template>
     </vue-navigation-bar>
 
@@ -67,7 +65,7 @@ export default {
         menuOptionsRight: [
           {
             type: 'button',
-            text: '🌟 ME ON GITHUB',
+            text: '🤪 ME ON GITHUB',
             path: 'https://github.com/OOXXXX/New-Blog',
             class: 'button-github'
           }
@@ -108,7 +106,7 @@ body {
 }
 
 body {
-  border-top: #0f4c81 5px solid;
+  border-top: #e12f33 5px solid;
 }
 
 .animation-fade-in {
@@ -144,13 +142,13 @@ body {
 #main-navbar .button-github {
   background: white;
   color: dd0938;
-  border: 1px solid #0f4c81;
-  /* border-radius: 50px; */
+  
+  border-radius: 50px;
   transition: 0.3s;
 }
 
 #main-navbar .button-github:hover {
-  background: #0f4c81;
+  background: #e12f33;
   color: #ffffff;
   -webkit-box-shadow: 0px 10px 40px -10px #0f4c81;
   -moz-box-shadow: 0px 10px 40px -10px #0f4c81;
@@ -191,9 +189,9 @@ body {
 }
 
 #avatar {
-  max-width: 120px;
-  max-height: 120px;
-  border-radius: 60px;
+  max-width: 130px;
+  max-height: 130px;
+  border-radius: 65px;
   margin-top: 40px;
 }
 
@@ -221,7 +219,7 @@ h2 {
 hr {
   width: 100px;
   margin: 60px 0 0 0;
-  border-top: solid 3px #24292e;
+  border-top: solid 3px #e12f33;
 }
 
 p,
@@ -230,9 +228,9 @@ span {
 }
 
 #top-hr {
-  width: 100px;
+  width: 130px;
   margin: 60px auto;
-  border-top: solid 3px #0f4c81;
+  border-top: solid 3px #e12f33;
 }
 
 .social-media-card {
@@ -249,7 +247,7 @@ span {
 
 .container a {
   text-decoration: none;
-  color: #0f4c81;
+  color: #e12f33;
 }
 
 .container a:hover {
