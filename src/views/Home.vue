@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <img id="avatar" alt="avatar" src="./../assets/Patrick.jpeg" />
+    <img id="avatar" alt="avatar" src="https://pic.downk.cc/item/5e23ae452fb38b8c3c6bb5fb.jpg" />
     <h1>XXXX</h1>
     <h2>🙆‍♂️ 👨‍💻 🙋‍♂️</h2>
 
