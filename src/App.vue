@@ -150,9 +150,9 @@ body {
 #main-navbar .button-github:hover {
   background: #e12f33;
   color: #ffffff;
-  -webkit-box-shadow: 0px 10px 40px -10px #0f4c81;
-  -moz-box-shadow: 0px 10px 40px -10px #0f4c81;
-  box-shadow: 0px 10px 40px -10px #0f4c81;
+  -webkit-box-shadow: 0px 10px 40px -10px #e12f33;
+  -moz-box-shadow: 0px 10px 40px -10px #e12f33;
+  box-shadow: 0px 10px 40px -10px #e12f33;
 }
 
 .vnb__collapse-button img {
