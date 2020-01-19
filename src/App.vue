@@ -192,6 +192,13 @@ body {
     padding: 3px 25px !important;
 }
 
+.vnb__popup__bottom__menu-options__option__link:hover {
+    color: #333;
+    text-decoration: none;
+    background: #f3f3f3;
+    border-left: 2px solid #e12f33
+}
+
 #avatar {
   max-width: 140px;
   max-height: 140px;
