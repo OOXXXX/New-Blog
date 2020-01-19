@@ -1,7 +1,7 @@
 <template>
   <div class="container">
-    <img id="avatar" alt="avatar" src="https://pic.downk.cc/item/5e23ae452fb38b8c3c6bb5fb.jpg" />
-    <h1>XXXX</h1>
+    <img id="avatar" alt="avatar" src="https://i.loli.net/2020/01/19/g1WeqCr7ShdY5pV.jpg" />
+    <h1>一只特立独行的呆子</h1>
     <h2>🙆‍♂️ 👨‍💻 🙋‍♂️</h2>
 
     <p>A Level在读 / ‘Apple Device’精神用户 / 情怀文学家</p>

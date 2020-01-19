@@ -65,7 +65,7 @@ export default {
         menuOptionsRight: [
           {
             type: 'button',
-            text: '🤪 ME ON GITHUB',
+            text: '🍺 ME ON GITHUB',
             path: 'https://github.com/OOXXXX/New-Blog',
             class: 'button-github'
           }
@@ -171,7 +171,7 @@ body {
 }
 
 .link {
-  padding: 0px 10px 0 10px;
+  /*padding: 0px 10px 0 10px;*/
   cursor: pointer;
   -webkit-transition: color 0.2s ease-in;
   transition: color 0.2s ease-in;
@@ -185,19 +185,23 @@ body {
 }
 
 .vnb__popup__bottom__custom-section .link {
-  padding-bottom: 10px;
+  /*padding-bottom: 10px;*/
+}
+
+.vnb__popup__bottom__custom-section {
+    padding: 3px 25px !important;
 }
 
 #avatar {
-  max-width: 130px;
-  max-height: 130px;
+  max-width: 140px;
+  max-height: 140px;
   border-radius: 65px;
   margin-top: 40px;
 }
 
 .header-image {
-  max-width: 120px;
-  max-height: 120px;
+  max-width: 140px;
+  max-height: 140px;
   margin-top: 40px;
 }
 
@@ -304,4 +308,39 @@ span {
     opacity: 1;
   }
 }
+
+.vnb__popup__bottom__menu-options__option__link {
+    padding: 10px 21px;
+    color: #595959;
+    font-weight: 500;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-transition: color .2s ease-in,background .2s ease-in,border .2s ease-in;
+    transition: color .2s ease-in,background .2s ease-in,border .2s ease-in;
+    border-left: 2px solid #fff;
+    width: 100%;
+}
+
+.vnb__popup__bottom {
+    background: #fff;
+    padding:0px 0 0px;
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+
 </style>
